@@ -1,2 +1,2 @@
 # GPI-workshop4
-Taller 4 - Versión desde rama feature/conflicto
+Taller 4 - Versión desde rama principal
